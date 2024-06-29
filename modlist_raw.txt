@@ -1,0 +1,112 @@
+##comments with double hashtag
+Villager:
+- Our Villager Discounts https://modrinth.com/mod/our-villager-discounts
+- Villager in a Bucket https://modrinth.com/mod/villager-in-a-bucket
+- Villager Converting https://modrinth.com/mod/villager-converting
+- Retraining https://modrinth.com/mod/retraining
+
+Performance:
+- Cull Less Leaves https://modrinth.com/mod/cull-less-leaves
+- Dynamic FPS https://modrinth.com/mod/dynamic-fps
+- Ferrite Core https://modrinth.com/mod/ferrite-core
+- Enhanced Block Entities https://modrinth.com/mod/ebe
+- Sodium https://modrinth.com/mod/sodium
+- Better Sodium Video Setting https://modrinth.com/mod/better-sodium-video-settings-button
+- Indium https://modrinth.com/mod/indium
+- Lithium https://modrinth.com/mod/lithium
+- Iris https://modrinth.com/mod/iris
+- Lazy DFU https://modrinth.com/mod/lazydfu
+- Immediatly Fast https://modrinth.com/mod/immediatelyfast
+
+Qol:
+- Just Enough Items https://modrinth.com/mod/jei
+- JEI Addon Resources https://modrinth.com/mod/just-enough-resources-jer
+- JEI Addon Villager https://modrinth.com/mod/just-enough-professions-jep
+- Capes https://modrinth.com/mod/capes
+- Mod Menu https://modrinth.com/mod/modmenu
+- Controlling https://modrinth.com/mod/controlling
+- Mouse Tweaks https://modrinth.com/mod/mouse-tweaks
+- Mouse Wheelie https://modrinth.com/mod/mouse-wheelie
+- Zoomify https://modrinth.com/mod/zoomify
+- Lighty https://modrinth.com/mod/lighty
+- Boosted Brightness https://modrinth.com/mod/boosted-brightness
+- Boat Item View https://modrinth.com/mod/boat-item-view
+- Borderless Mining https://modrinth.com/mod/borderless-mining
+- Shulker Box Tooltip https://modrinth.com/mod/shulkerboxtooltip
+- What Are They Up To https://modrinth.com/mod/what-are-they-up-to
+- What the hell is that (WTHIT) https://modrinth.com/mod/wthit
+- Xaero's Minimap https://modrinth.com/mod/xaeros-minimap
+- Xaero's World Map https://modrinth.com/mod/xaeros-world-map
+- AppleSkin https://modrinth.com/mod/appleskin
+- Chat Heads https://modrinth.com/mod/chat-heads
+- More Chat History https://modrinth.com/mod/morechathistory
+- Enchantment Descriptions https://modrinth.com/mod/enchantment-descriptions
+- Advancement Info https://modrinth.com/mod/advancementinfo
+- Better Mount HUD https://modrinth.com/mod/better-mount-hud
+- Freecam https://modrinth.com/mod/freecam
+- ClearDespawn https://modrinth.com/mod/cleardespawn
+- Show Me Your Skin! https://modrinth.com/mod/show-me-your-skin
+- Tool Stats https://modrinth.com/mod/tool-stats
+- Not Enough Crashes https://modrinth.com/mod/notenoughcrashes
+- Keep Head Names https://modrinth.com/datapack/keepheadnames
+
+Storage:
+- Carry On https://modrinth.com/mod/carry-on
+- Iron Chest https://modrinth.com/mod/cyberanner-ironchest
+- Extended Storage Drawers https://modrinth.com/mod/extended-drawers
+- Toms simple storage https://modrinth.com/mod/toms-storage
+- Inmis (Backpack) https://modrinth.com/mod/inmis
+
+Vanilla+:
+- Chunkloader https://modrinth.com/mod/chunk-loaders
+- Comforts https://modrinth.com/mod/comforts
+- Double Doors https://modrinth.com/mod/double-doors
+- Monsters in the Closet https://modrinth.com/mod/monsters-in-the-closet
+- Just Player Heads https://modrinth.com/mod/just-player-heads
+- Enviromental Creepers https://modrinth.com/mod/environmental-creepers
+
+Beautify:
+- Chisel https://modrinth.com/mod/chisel-reborn
+- Chipped https://modrinth.com/mod/chipped
+- Continuity https://modrinth.com/mod/continuity
+- Another Furniture https://modrinth.com/mod/another-furniture
+- StoneWorks https://modrinth.com/mod/stoneworks
+- Handcrafted https://modrinth.com/mod/handcrafted
+- Armor Statues https://modrinth.com/mod/armor-statues
+
+Other:
+- Chunky https://modrinth.com/plugin/chunky
+- MixinTrace https://modrinth.com/mod/mixintrace
+
+Dependencies:
+- Cloth Config https://modrinth.com/mod/cloth-config
+- Fabric API https://modrinth.com/mod/fabric-api
+- Pathouli https://modrinth.com/mod/patchouli
+- Fabric Language Kotlin https://modrinth.com/mod/fabric-language-kotlin
+- Searchables https://modrinth.com/mod/searchables
+- Architectury API https://modrinth.com/mod/architectury-api
+- Resourceful Lib https://modrinth.com/mod/resourceful-lib
+- Puzzles Lib https://modrinth.com/mod/puzzles-lib
+- Forge Config API Port https://modrinth.com/mod/forge-config-api-port
+- Athena https://modrinth.com/mod/athena-ctm
+- SuperMartijn642's Config Lib https://modrinth.com/mod/supermartijn642s-config-lib
+- SuperMartijn642's Core Lib https://modrinth.com/mod/supermartijn642s-core-lib
+- YetAnotherConfigLib https://modrinth.com/mod/yacl
+- CoroUtil https://modrinth.com/mod/coroutil
+- bad packets https://modrinth.com/mod/badpackets
+- Configured https://modrinth.com/mod/configured
+- Bookshelf https://modrinth.com/mod/bookshelf-lib
+- CICADA https://modrinth.com/mod/cicada
+- Collective https://modrinth.com/mod/collective
+- Trinkets https://modrinth.com/mod/trinkets
+
+Not generally:
+- Distant Horizons https://modrinth.com/mod/distanthorizons
+- Bobby https://modrinth.com/mod/bobby
+- Nvidium https://modrinth.com/mod/nvidium
+- Chassis https://modrinth.com/mod/chassis
+
+Considering:
+- Elytra Slot https://modrinth.com/mod/elytra-slot
+- Natures Compass https://modrinth.com/mod/natures-compass
+- Explorer's Compass https://modrinth.com/mod/explorers-compass
