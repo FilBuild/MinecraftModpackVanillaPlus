@@ -4,11 +4,15 @@ All used Mods are listed below, support their creators.
 I checked all licenses that are referenced or if it is a custom license I checked github and modrinth. I did not find a license that disallows what I am doing here (I can make mistakes too).  
 If you want to use this modpack, feel free to do it, just don't expect any support.  
 DO NOT MONETIZE THIS IN ANY WAY!
+
 # License (MIT)
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 # Info
 Version: 1.20.1 Loader: Fabric  
-This document will be (mostly) german from now
+This document will be (mostly) german from now  
+(Weitere Clientside-Mods können dazu installiert werden, wenn gewollt)
+
 # How to install
 ## Normaler Weg
 (So kleinschrittig wie möglich)
@@ -32,6 +36,9 @@ This document will be (mostly) german from now
 - Füge Fabric hinzu
 - Öffne den .minecraft Ordner von der Instanz
 - Führe die Schritte wie oben ab "Starte Minecraft" aus
+## Eventuelle "Updates"
+Ladet die Update Zip (aus dem UpdateOrdner, welcher dann erstellt wird) runter und führt dieselben Schritte wie oben auf Basis der UpdateZips durch (natürlich ohne Minecraft neu zu installieren, sondern nur die Schritte ab Herunterladen der ZIP).
+
 # Features
 - Villager Verbesserungen / Vereinfachungen
 - deutliche Performance Optimierungen (mehr FPS)
@@ -54,6 +61,41 @@ This document will be (mostly) german from now
 - Minecraftähnliche Möbel
 - Armorstandeditor
 - Serveradmintools
+
+# Keybindings (Tastenbelegungen)
+Gibt an wie die Keybindings von der options.txt festgelegt wurden
+### Vanilla
+WASD - Bewegen  
+E - Inventar  
+Q - Droppen  
+Shift - Sneaken  
+Strg - Sprinten  
+Space - Springen  
+T - Chat  
+   
+### Minimap
+P - Wegpunkt setzen  
+Y - Map vergrößern  
+X - WegpunktOverlay verstecken  
+U - Wegpunktliste  
+M - Weltkarte  
+  
+### Rüstungsmod
+J - Rüstungversteckmod an/aus  
+H - Rüstungseinstellungen
+  
+### Lagermods
+Mausrad drücken - Sortieren (In Inventaren)  
+G - "Storageterminal"  
+
+### Sonstiges
+C - Chunkloader anzeigen  
+V - Freecam  
+R - Zoomen  
+B - Backpack (Rucksack)  
+O - Shader  
+
+
 # Mod-list
 ## Villager
 Vereinfachung/Verbesserung der Villager
