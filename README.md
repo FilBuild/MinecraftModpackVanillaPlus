@@ -9,6 +9,29 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 # Info
 Version: 1.20.1 Loader: Fabric  
 This document will be (mostly) german from now
+# How to install
+## Normaler Weg
+(So kleinschrittig wie möglich)
+- Installiere Fabric 1.20.1 (Installer: https://fabricmc.net/use/installer/)
+- Wähle Minecraft-Version 1.20.1 aus
+- (Überprüfe den Pfad von .minecraft)
+- Installiere
+- Starte Minecraft launcher
+- Wähle das Fabric-Profil aus
+- Starte Minecraft
+- Nach vollständigem Starten, schließe Minecraft
+- Lade dir die Zip von Github herunter (Code -> Download ZIP) (https://github.com/FilBuild/MinecraftModpackVanillaPlus)
+- Gehe in den .minecraft Ordner
+- Schiebe alle die Mods aus der ZIP/mods in .minecraft/mods
+- Überschreibe die options.txt in .minecraft mit der ZIP/config/options.txt
+- Füge den Inhalt ZIP/config/config Ordner in .minecraft/config Ordner ein (notfalls erstelle den config Ordner in .minecraft)
+- Starte Minecraft
+- Konfiguriere nach eigenem Verlangen
+## Prism/MultiMC
+- Erstelle neue 1.20.1 Instanz
+- Füge Fabric hinzu
+- Öffne den .minecraft Ordner von der Instanz
+- Führe die Schritte wie oben ab "Starte Minecraft" aus
 # Features
 - Villager Verbesserungen / Vereinfachungen
 - deutliche Performance Optimierungen (mehr FPS)
@@ -17,6 +40,8 @@ This document will be (mostly) german from now
 - Freecam
 - Minimap und Wegpunkte (Waypoints)
 - Visuelle Verbesserungen
+- Bessere Storage (Lager) Optionen
+- Möglichkeiten Kisten (und teilweise Mobs) zu bewegen ohne diese abzubauen
 - Simplere Chunkloader
 - Mobile Betten, welche keinen Spawnpunkt setzen
 - Hängematten mit welchen man durch den Tag schlafen kann

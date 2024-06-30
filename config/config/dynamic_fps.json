@@ -1,0 +1,10 @@
+{
+  "idle": {
+    "timeout": 1500
+  },
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 5
+    }
+  }
+}
